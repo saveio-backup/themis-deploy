@@ -1,0 +1,1 @@
+./themis info status $1

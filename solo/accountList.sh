@@ -1,0 +1,1 @@
+./themis account list

@@ -1,0 +1,70 @@
+{
+    "SeedList": [
+        "127.0.0.1:20338",
+        "127.0.0.1:24021",
+        "127.0.0.1:24031",
+        "127.0.0.1:24041",
+        "127.0.0.1:24051",
+        "127.0.0.1:24061",
+        "127.0.0.1:24071"
+    ],
+    "ConsensusType": "vbft",
+    "VBFT": {
+        "n": 70,
+        "c": 2,
+        "k": 7,
+        "l": 112,
+        "block_msg_delay": 10000,
+        "hash_msg_delay": 10000,
+        "peer_handshake_timeout": 10,
+        "max_block_change_view": 3000,
+        "admin_ont_id": "did:ont:AMAx993nE6NEqZjwBssUfopxnnvTdob9ij",
+        "min_init_stake": 100000,
+        "vrf_value": "1c9810aa9822e511d5804a9c4db9dd08497c31087b0daafa34d768a3253441fa20515e2f30f81741102af0ca3cefc4818fef16adb825fbaa8cad78647f3afb590e",
+        "vrf_proof": "c57741f934042cb8d8b087b44b161db56fc3ffd4ffb675d36cd09f83935be853d8729f3f5298d12d6fd28d45dde515a4b9d7f67682d182ba5118abf451ff1988",
+        "peers": [
+            {
+                "index": 1,
+                "peerPubkey": "0265f2c2196a1f45376eab8f3987d03cb46bb1969ca6d241ba134eea6389182fe2",
+                "address": "ALJrCjgoCRaxj6f8TV9DJsPuyCXYzhaonN",
+                "initPos": 100000
+            },
+            {
+                "index": 2,
+                "peerPubkey": "02ed6a1763f6dc4eeee671e1a41e0597dc99fcdafba4d32e8842c936712ecd0e25",
+                "address": "AVyeThoDFEws7QRGXqamciyX7UQH2UHmXS",
+                "initPos": 200000
+            },
+            {
+                "index": 3,
+                "peerPubkey": "0369f4005b006166e988af436860b8a06c15f3eb272ccbabff175e067e6bba88d7",
+                "address": "ARm8cHmzbWvJ83QawukZDezvQLTFxypkxa",
+                "initPos": 300000
+            },
+            {
+                "index": 4,
+                "peerPubkey": "02e7040490b5098b3b71d91157821e12f2c14c0abe6f868d63fdee9565ce157e0e",
+                "address": "AQ4gmBW2sYbePmFL2u7c6TA6iV2YSKwnoA",
+                "initPos": 400000
+            },
+            {
+                "index": 5,
+                "peerPubkey": "031ca32e67edafe22d05bc0c56cdeb95ad89fbcbc001b0a41237e4b91a3ac09fee",
+                "address": "AJf1x9gGQKgcS4sLyCbcd2kMMRuS5yjznv",
+                "initPos": 300000
+            },
+            {
+                "index": 6,
+                "peerPubkey": "037962afd0effa44b1a3005057a063584196464cef35eb1f7a274fe39d6b398f10",
+                "address": "AKDyq8ktrE8Pmuhs2epP2ArA5Gn8F5ULSm",
+                "initPos": 200000
+            },
+            {
+                "index": 7,
+                "peerPubkey": "036b3a44cdfb3bc58376868407a77df4ffdc49884aef0c94cb284d31496ee3ff82",
+                "address": "AWGdTVohSgJhKREzM5Fszhmo7n7CVKFX6v",
+                "initPos": 100000
+            }
+        ]
+    }
+}

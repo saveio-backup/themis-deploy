@@ -1,0 +1,18 @@
+{
+    "SeedList": [
+        "127.0.0.1:20338",
+        "127.0.0.1:24021",
+        "127.0.0.1:24031",
+        "127.0.0.1:24041"
+    ],
+    "ConsensusType": "dbft",
+    "DBFT": {
+        "Bookkeepers": [
+            "0226315f350c304138833aac397643d255168b169a5a4cd70d1b08b17bc56d20d5",
+            "032ab4f42c8ff660d98de0118e79133dca2c6bdea7768adcbfb7984b663a2d4808",
+            "03fea269aeaf17dea879241c13ef575d4918efaf08ae26b92ce2758fdfe0317c39",
+            "026b1e28f7130150bcdbb6c56b414f18a920f3d40215c6f57b16b7868cb3fd58ed"
+        ],
+        "GenBlockTime": 6
+    }
+}
